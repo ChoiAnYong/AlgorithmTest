@@ -2,36 +2,26 @@
 //  main.swift
 //  AlgorithmTest
 //
-//  Created by 최안용 on 11/28/23.
+//  Created by 최안용 on 11/30/23.
 //
 
+//Counting sort 사용
+//O(n), O(nlog n)의 시간 복잡도가 걸리는 정렬로는 풀이할 수 없다.
+//swift에서는 입력과 출력이 다른 언어에 비해 많이 느리다
 import Foundation
 
-let num = Int(readLine()!)!
-var list: [Int] = [Int]()
+var countingNums = [Int](repeating: 0, count: 10001)
+let n = Int(readLine()!)!
 
-for _ in 0..<num {
-    let menu = readLine()!.split(separator: " ").map {
-        Int(String($0))!
-    }
-    
-    switch menu[0] {
-    case 1:
-        list.append(menu[1])
-    case 2:
-        if list.isEmpty == true {
-            print("-1")
-        } else {
-            print(list.last!)
-            list.removeLast()
-        }
-    case 3:
-        print(list.count)
-    case 4:
-        list.isEmpty == true ? print("1") : print("0")
-    case 5:
-        list.isEmpty == true ? print("-1") : print(list.last!)
-    default: break
-    }
+
+for _ in 0..<n {
+    countingNums[Int(readLine()!)!] += 1
 }
 
+var output = ""
+
+for i in 1...10000 {
+    output += String(repeating: "\(i)\n", count: countingNums[i])
+}
+
+print(output)
