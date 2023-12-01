@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  ex5.swift
 //  AlgorithmTest
 //
 //  Created by 최안용 on 11/30/23.
