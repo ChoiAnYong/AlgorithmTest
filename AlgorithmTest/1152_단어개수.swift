@@ -1,5 +1,5 @@
 //
-//  ex2.swift
+//  1152_단어개수.swift
 //  AlgorithmTest
 //
 //  Created by 최안용 on 11/16/23.

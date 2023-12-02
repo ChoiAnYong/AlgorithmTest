@@ -1,5 +1,5 @@
 //
-//  ex4.swift
+//  28278_스택.swift
 //  AlgorithmTest
 //
 //  Created by 최안용 on 11/28/23.
