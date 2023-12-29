@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		AD1BEC3E2B2094CB002AAD9B /* 2908_상수.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1BEC3D2B2094CB002AAD9B /* 2908_상수.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		AD468A282B060C1900CACCD5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -30,6 +26,7 @@
 		AD468A2A2B060C1900CACCD5 /* AlgorithmTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD468A2D2B060C1900CACCD5 /* 10807_개수세기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10807_개수세기.swift"; sourceTree = "<group>"; };
 		AD468A362B060CA300CACCD5 /* 1152_단어개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1152_단어개수.swift"; sourceTree = "<group>"; };
+		AD5F2B312B3ECB7C00803118 /* 1260_dfs_bfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1260_dfs_bfs.swift; sourceTree = "<group>"; };
 		AD9372FA2B14CB3B002DF447 /* 1157_단어공부.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1157_단어공부.swift"; sourceTree = "<group>"; };
 		AD9564EA2B1630B800B995E6 /* 28278_스택.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "28278_스택.swift"; sourceTree = "<group>"; };
 		ADA41E7D2B18656A00A172F7 /* 10989_수정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10989_수정렬.swift"; sourceTree = "<group>"; };
@@ -78,6 +75,7 @@
 				AD1D23E92B1D959900345A2D /* 12865_배낭.swift */,
 				AD1D939D2B1F306B0055F454 /* 10816_숫자카드.swift */,
 				AD1BEC3D2B2094CB002AAD9B /* 2908_상수.swift */,
+				AD5F2B312B3ECB7C00803118 /* 1260_dfs_bfs.swift */,
 			);
 			path = AlgorithmTest;
 			sourceTree = "<group>";
@@ -141,7 +139,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD1BEC3E2B2094CB002AAD9B /* 2908_상수.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
