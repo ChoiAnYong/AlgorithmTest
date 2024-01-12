@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		AD31FA282B4FC291007C0C96 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD31FA262B4FC240007C0C96 /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		AD468A282B060C1900CACCD5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -30,7 +26,7 @@
 		AD31FA202B4FC17F007C0C96 /* 12865_배낭.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "12865_배낭.swift"; sourceTree = "<group>"; };
 		AD31FA222B4FC1D4007C0C96 /* 10989_수정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10989_수정렬.swift"; sourceTree = "<group>"; };
 		AD31FA242B4FC20B007C0C96 /* 10816_숫자카드.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10816_숫자카드.swift"; sourceTree = "<group>"; };
-		AD31FA262B4FC240007C0C96 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		AD31FA262B4FC240007C0C96 /* 1181_단어 정렬.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1181_단어 정렬.swift"; sourceTree = "<group>"; };
 		AD31FA292B4FC320007C0C96 /* 1157_단어공부.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1157_단어공부.swift"; sourceTree = "<group>"; };
 		AD31FA2B2B4FC34D007C0C96 /* 1152_단어개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1152_단어개수.swift"; sourceTree = "<group>"; };
 		AD468A2A2B060C1900CACCD5 /* AlgorithmTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmTest; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -77,7 +73,7 @@
 				AD31FA202B4FC17F007C0C96 /* 12865_배낭.swift */,
 				AD31FA222B4FC1D4007C0C96 /* 10989_수정렬.swift */,
 				AD31FA242B4FC20B007C0C96 /* 10816_숫자카드.swift */,
-				AD31FA262B4FC240007C0C96 /* main.swift */,
+				AD31FA262B4FC240007C0C96 /* 1181_단어 정렬.swift */,
 				AD31FA292B4FC320007C0C96 /* 1157_단어공부.swift */,
 				AD31FA2B2B4FC34D007C0C96 /* 1152_단어개수.swift */,
 			);
@@ -143,7 +139,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD31FA282B4FC291007C0C96 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
