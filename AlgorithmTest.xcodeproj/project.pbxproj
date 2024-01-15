@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		AD31FA302B53BD9D007C0C96 /* 2164_큐.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD31FA2F2B53BD9D007C0C96 /* 2164_큐.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		AD468A282B060C1900CACCD5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -35,6 +31,7 @@
 		AD31FA2B2B4FC34D007C0C96 /* 1152_단어개수.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1152_단어개수.swift"; sourceTree = "<group>"; };
 		AD31FA2D2B513029007C0C96 /* 2292_벌집.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2292_벌집.swift"; sourceTree = "<group>"; };
 		AD31FA2F2B53BD9D007C0C96 /* 2164_큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2164_큐.swift"; sourceTree = "<group>"; };
+		AD31FA312B555C24007C0C96 /* 15989_dp_더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15989_dp_더하기.swift"; sourceTree = "<group>"; };
 		AD468A2A2B060C1900CACCD5 /* AlgorithmTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD5F2B312B3ECB7C00803118 /* 1260_dfs_bfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1260_dfs_bfs.swift; sourceTree = "<group>"; };
 		ADC168332B4AED2F0015AC96 /* 10818_최대최소.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10818_최대최소.swift"; sourceTree = "<group>"; };
@@ -84,6 +81,7 @@
 				AD31FA2B2B4FC34D007C0C96 /* 1152_단어개수.swift */,
 				AD31FA2D2B513029007C0C96 /* 2292_벌집.swift */,
 				AD31FA2F2B53BD9D007C0C96 /* 2164_큐.swift */,
+				AD31FA312B555C24007C0C96 /* 15989_dp_더하기.swift */,
 			);
 			path = AlgorithmTest;
 			sourceTree = "<group>";
@@ -147,7 +145,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD31FA302B53BD9D007C0C96 /* 2164_큐.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
