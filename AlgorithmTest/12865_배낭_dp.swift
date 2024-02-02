@@ -1,5 +1,5 @@
 //
-//  12865_배낭.swift
+//  12865_배낭_dp.swift
 //  AlgorithmTest
 //
 //  Created by 최안용 on 1/11/24.
