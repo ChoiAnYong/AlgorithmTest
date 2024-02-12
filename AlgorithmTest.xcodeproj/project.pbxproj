@@ -41,6 +41,7 @@
 		AD8E1B482B5AA52900BD280D /* 2178_미로 탐색_BFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2178_미로 탐색_BFS.swift"; sourceTree = "<group>"; };
 		ADBF331E2B6E155500807E62 /* 2644_촌수계산_dfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2644_촌수계산_dfs.swift"; sourceTree = "<group>"; };
 		ADC168332B4AED2F0015AC96 /* 10818_최대최소.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "10818_최대최소.swift"; sourceTree = "<group>"; };
+		ADE8A7432B726480002B950B /* 1655_가운데 말하기_최대최소Heap.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1655_가운데 말하기_최대최소Heap.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -94,6 +95,7 @@
 				AD87DFD02B6B8FE4006EC8D5 /* 2667_단지번호붙이기_dfs.swift */,
 				AD87DFD22B6CE0B6006EC8D5 /* 2579_계단 오르기_dp.swift */,
 				ADBF331E2B6E155500807E62 /* 2644_촌수계산_dfs.swift */,
+				ADE8A7432B726480002B950B /* 1655_가운데 말하기_최대최소Heap.swift */,
 			);
 			path = AlgorithmTest;
 			sourceTree = "<group>";
