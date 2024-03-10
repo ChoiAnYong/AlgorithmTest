@@ -6,3 +6,7 @@
 //
 
 import Foundation
+
+func akd(_ dkfowj) -> Result {
+    
+}
