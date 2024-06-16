@@ -1,5 +1,5 @@
 //
-//  main.swift
+//  1976_여행가자.swift
 //  AlgorithmTest
 //
 //  Created by 최안용 on 3/15/24.

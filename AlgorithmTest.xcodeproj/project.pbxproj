@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		ADF4A4682C1B03E800C131C4 /* 14916_거스름돈.swift in Sources */ = {isa = PBXBuildFile; fileRef = ADF4A4672C1B03E800C131C4 /* 14916_거스름돈.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		AD468A282B060C1900CACCD5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -39,6 +35,7 @@
 		AD31FA312B555C24007C0C96 /* 15989_dp_더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15989_dp_더하기.swift"; sourceTree = "<group>"; };
 		AD31FA332B5665FE007C0C96 /* 2631_LIS_줄세우기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2631_LIS_줄세우기.swift"; sourceTree = "<group>"; };
 		AD468A2A2B060C1900CACCD5 /* AlgorithmTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmTest; sourceTree = BUILT_PRODUCTS_DIR; };
+		AD5B168D2C1F1927000E9326 /* 1463_1로 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1463_1로 만들기.swift"; sourceTree = "<group>"; };
 		AD5F2B312B3ECB7C00803118 /* 1260_dfs_bfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1260_dfs_bfs.swift; sourceTree = "<group>"; };
 		AD87DFCE2B6A30B1006EC8D5 /* 2606_바이러스_dfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2606_바이러스_dfs.swift"; sourceTree = "<group>"; };
 		AD87DFD02B6B8FE4006EC8D5 /* 2667_단지번호붙이기_dfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2667_단지번호붙이기_dfs.swift"; sourceTree = "<group>"; };
@@ -108,6 +105,7 @@
 				ADF88AD92B9C4A2A00919CDE /* 15894.swift */,
 				AD19B38F2BA453AD00C09E5F /* 1976_여행가자.swift */,
 				ADF4A4672C1B03E800C131C4 /* 14916_거스름돈.swift */,
+				AD5B168D2C1F1927000E9326 /* 1463_1로 만들기.swift */,
 			);
 			path = AlgorithmTest;
 			sourceTree = "<group>";
@@ -144,7 +142,7 @@
 				TargetAttributes = {
 					AD468A292B060C1900CACCD5 = {
 						CreatedOnToolsVersion = 15.0.1;
-						LastSwiftMigration = 1500;
+						LastSwiftMigration = 1540;
 					};
 				};
 			};
@@ -171,7 +169,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				ADF4A4682C1B03E800C131C4 /* 14916_거스름돈.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
