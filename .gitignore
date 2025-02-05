@@ -141,3 +141,5 @@
 	# End of https://www.toptal.com/developers/gitignore/api/macos,swift,xcode,cocoapods
 
 	*.xcuserstate	
+
+AlgorithmTest.xcodeproj/project.xcworkspace/xcuserdata/anyongchoi.xcuserdatad/UserInterfaceState.xcuserstate
