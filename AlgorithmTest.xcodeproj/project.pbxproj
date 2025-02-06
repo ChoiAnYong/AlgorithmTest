@@ -6,10 +6,6 @@
 	objectVersion = 56;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		AD7D48FF2C3E832C002094FF /* Pro_DiskControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD7D48FE2C3E832C002094FF /* Pro_DiskControl.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		AD468A282B060C1900CACCD5 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -39,6 +35,7 @@
 		AD31FA2F2B53BD9D007C0C96 /* 2164_큐.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2164_큐.swift"; sourceTree = "<group>"; };
 		AD31FA312B555C24007C0C96 /* 15989_dp_더하기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "15989_dp_더하기.swift"; sourceTree = "<group>"; };
 		AD31FA332B5665FE007C0C96 /* 2631_LIS_줄세우기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "2631_LIS_줄세우기.swift"; sourceTree = "<group>"; };
+		AD372F4C2D53AF3F001F038B /* Pro_bracket.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Pro_bracket.swift; sourceTree = "<group>"; };
 		AD468A2A2B060C1900CACCD5 /* AlgorithmTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmTest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AD5B168D2C1F1927000E9326 /* 1463_1로 만들기.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "1463_1로 만들기.swift"; sourceTree = "<group>"; };
 		AD5F2B312B3ECB7C00803118 /* 1260_dfs_bfs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1260_dfs_bfs.swift; sourceTree = "<group>"; };
@@ -118,6 +115,7 @@
 				AD8337432C246DF700AADD42 /* 1003_피보나치함수.swift */,
 				ADC8A1672C2562BA0035EAF0 /* 3197_백조호수.swift */,
 				AD7D48FE2C3E832C002094FF /* Pro_DiskControl.swift */,
+				AD372F4C2D53AF3F001F038B /* Pro_bracket.swift */,
 			);
 			path = AlgorithmTest;
 			sourceTree = "<group>";
@@ -181,7 +179,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AD7D48FF2C3E832C002094FF /* Pro_DiskControl.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
