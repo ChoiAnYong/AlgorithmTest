@@ -22,18 +22,8 @@
 		AD468A2A2B060C1900CACCD5 /* AlgorithmTest */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = AlgorithmTest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		AD372F762D551743001F038B /* PBXFileSystemSynchronizedBuildFileExceptionSet */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				"Pro_ FurthestNode.swift",
-			);
-			target = AD468A292B060C1900CACCD5 /* AlgorithmTest */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
-
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		AD372F512D54B788001F038B /* Programmers */ = {isa = PBXFileSystemSynchronizedRootGroup; exceptions = (AD372F762D551743001F038B /* PBXFileSystemSynchronizedBuildFileExceptionSet */, ); explicitFileTypes = {}; explicitFolders = (); path = Programmers; sourceTree = "<group>"; };
+		AD372F512D54B788001F038B /* Programmers */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Programmers; sourceTree = "<group>"; };
 		AD372F522D54B7BE001F038B /* Baekjoon */ = {isa = PBXFileSystemSynchronizedRootGroup; explicitFileTypes = {}; explicitFolders = (); path = Baekjoon; sourceTree = "<group>"; };
 /* End PBXFileSystemSynchronizedRootGroup section */
 

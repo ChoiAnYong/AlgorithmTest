@@ -63,5 +63,3 @@ func bfs(graph: [[Int]], inputVisited: [Bool]) -> Int {
     
     return result
 }
-
-print(solution(6, [[1, 2], [2, 3], [2, 4], [3, 5], [3, 6]]))
