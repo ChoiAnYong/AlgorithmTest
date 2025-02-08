@@ -25,5 +25,3 @@ func solution(_ s:String) -> Int {
     
     return sum
 }
-
-print(solution("-1 -2 -3 Z"))
