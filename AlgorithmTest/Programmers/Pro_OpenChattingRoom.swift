@@ -28,4 +28,4 @@ func solution(_ record:[String]) -> [String] {
     }
     
     return result
-}
+} 
