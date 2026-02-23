@@ -95,7 +95,7 @@
 				TargetAttributes = {
 					AD468A292B060C1900CACCD5 = {
 						CreatedOnToolsVersion = 15.0.1;
-						LastSwiftMigration = 1600;
+						LastSwiftMigration = 2620;
 					};
 				};
 			};
